@@ -1,0 +1,125 @@
+.Main {
+    display: inline-block;
+    text-align: left;
+}
+
+.Content{
+    box-shadow: 0px 0px 3px #888888;
+}
+
+.EventGroup{
+}
+
+.myevent{
+    box-shadow: 0px 0px 1px #888888;
+    width:414px;
+    vertical-align: top;
+}
+
+.event {
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    margin:1px;
+    left:10px;
+    height: 48.4px;
+    vertical-align: top;
+    
+}
+
+.finishEvent {
+    margin:0px;
+    position: relative;
+    display: inline-block;
+    left:10px;
+    margin:1px;
+    text-decoration: line-through;
+    color:rgba(0, 0, 0, 0.4);
+    font-size: 30px;
+    height: 48.4px;
+}
+
+.delbutton{
+    margin:1px;
+    float:right;
+    vertical-align: top;
+    vertical-align:middle;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 10px;
+    width:100px;
+    height:40px;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5.2px 2px;
+}
+
+.button{
+    vertical-align:middle;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    vertical-align:middle;
+    line-height: 18.4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width:100px;
+    height:48.4px;
+    margin: 1px 2px;
+}
+
+.clearbutton{
+    float:right;
+    width:100px;
+    line-height: 10.4px;
+    height:40.4px;
+    vertical-align:middle;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 5.2px 2px;
+}
+
+.inputbar{
+    box-shadow: 0px 0px 3px #888888;
+    border:none;
+    vertical-align:middle;
+    display: inline-block;
+    width:300px;
+    height: 42.4px;
+    font-size: 25px;
+    margin:0px 3px;
+}
+
+.InputBar {
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+.finishbutton{
+    background-color: blue;
+    width: 10px;
+    height: 10px;
+}
+
+.counter{
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left:10px;
+    top:10px;
+    margin: 1px;
+    height:48.4px;
+}
